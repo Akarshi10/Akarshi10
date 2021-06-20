@@ -1,4 +1,4 @@
-# Hello, Welcome to My Profile #
+# 😃 Hello, Welcome to My Profile #
 - I am Akarshika Singhal. I am recently graduated student (MS in Information Systems) from University of Maryland Baltimore County.
 - Currently looking for full time job as Software Developer | Data Analyst.
 - Keen Learner
